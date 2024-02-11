@@ -1,0 +1,170 @@
+[
+  {
+    "id": "m1",
+    "name": "Butter Chicken",
+    "price": "299",
+    "description": "Marinated chicken in a creamy tomato-based curry sauce, known for its rich and flavorful taste.",
+    "image": "images/butterchicken.png"
+  },
+  {
+    "id": "m2",
+    "name": "Margherita Pizza",
+    "price": "249",
+    "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+    "image": "images/margherita-pizza.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Cake",
+    "price": "199",
+    "description": "Savor the sweetness of our decadent cakes, expertly crafted to perfection, and elevate your celebrations.",
+    "image": "images/cake.png"
+  },
+  {
+    "id": "m4",
+    "name": "Matar Panner",
+    "price": "199",
+    "description": "Paneer and vibrant green peas, simmered in a luscious tomato-based curry.",
+    "image": "images/matarpanner.png"
+  },
+  {
+    "id": "m5",
+    "name": "Chicken Curry",
+    "price": "299",
+    "description": "Tender pieces of chicken simmered in a rich and aromatic curry sauce, served with basmati rice.",
+    "image": "images/chicken-curry.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Grilled Chicken Sandwich",
+    "price": "10.99",
+    "description": "Tender grilled chicken breast with avocado, bacon, lettuce, and honey mustard on a toasted bun.",
+    "image": "images/grilled-chicken-sandwich.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Fast Food Combo",
+    "price": "349",
+    "description": "Get best combo of fast food at discount price",
+    "image": "images/combo.png"
+  },
+  {
+    "id": "m8",
+    "name": "Sushi Roll Platter",
+    "price": "249",
+    "description": "An assortment of fresh sushi rolls including California, Spicy Tuna, and Eel Avocado.",
+    "image": "images/sushi-roll-platter.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Roti",
+    "price": "19",
+    "description": "freshly made rotis, soft and pliable unleavened flatbreads.",
+    "image": "images/roti.png"
+  },
+  {
+    "id": "m10",
+    "name": "salad Bowl",
+    "price": "199",
+    "description": "A hearty bowl filled with quinoa, roasted veggies, avocado, and a tahini dressing.",
+    "image": "images/salad.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Seafood Plate",
+    "price": "299",
+    "description": "A Spanish delicacy filled with saffron-infused rice, shrimp, mussels, and chorizo.",
+    "image": "images/seafood.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Pancake Stack",
+    "price": "99",
+    "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
+    "image": "images/pancake-stack.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Miso Ramen",
+    "price": "199",
+    "description": "A warming bowl of ramen with miso broth, tender pork, soft-boiled egg, and green onions.",
+    "image": "images/miso-ramen.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Egg Biryani",
+    "price": "199",
+    "description": "Aromatic blend of fragrant basmati rice, perfectly cooked eggs, and aromatic spices.",
+    "image": "images/eggbiryani.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Chocolate Brownie",
+    "price": "99",
+    "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
+    "image": "images/chocolate-brownie.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Samosa",
+    "price": "19",
+    "description": "Crispy, golden pockets of joy filled with a spiced medley of potatoes, peas, and aromatic herbs.",
+    "image": "images/samosa.png"
+  },
+  {
+    "id": "m17",
+    "name": "Mushroom Risotto",
+    "price": "199",
+    "description": "Creamy Arborio rice cooked with a medley of wild mushrooms and finished with parmesan.",
+    "image": "images/mushroom-risotto.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Eggplant Parmesan",
+    "price": "149",
+    "description": "Layers of breaded eggplant, marinara sauce, and melted mozzarella and parmesan cheeses.",
+    "image": "images/eggplant-parmesan.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Lemon Cheesecake",
+    "price": "129",
+    "description": "A creamy cheesecake with a tangy lemon flavor, served on a crumbly biscuit base.",
+    "image": "images/lemon-cheesecake.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Juice",
+    "price": "79",
+    "description": "Refreshing and vibrant juices, crafted from the finest fruits to provide a burst of natural flavors.",
+    "image": "images/juise.png"
+  },
+  {
+    "id": "m21",
+    "name": "Fried Rice",
+    "price": "99",
+    "description": "Fluffy grains tossed with colorful vegetables, succulent proteins, and a tantalizing blend of savory sauces.",
+    "image": "images/friedRice.png"
+  },
+  {
+    "id": "m22",
+    "name": "Veg Burger",
+    "price": "129",
+    "description": "A savory patty, layered with crisp, fresh vegetables and a luscious spread, all nestled between soft buns",
+    "image": "images/veggie-burger.jpg"
+  },
+  {
+    "id": "m23",
+    "name": "Mac cheese",
+    "price": "149",
+    "description": "Coated in a velvety cheese sauce, creating a satisfying dish that warms the heart with every bite.",
+    "image": "images/mac-and-cheese.jpg"
+  },
+  {
+    "id": "m24",
+    "name": "Sweets",
+    "price": "29",
+    "description": "Soft and spongy milk-based spheres infused with aromatic cardamom, soaked in a heavenly sugar syrup",
+    "image": "images/sweets.png"
+  }
+]
